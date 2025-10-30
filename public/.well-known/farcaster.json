@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "Onchain Poker Hub",
-    "homeUrl": "https://onchainpoker.xyz/mini-app",
+    "homeUrl": "https://app-bec62205-ia2j.vercel.app",
     "iconUrl": "https://onchainpoker.xyz/icon_256x256.png",
     "splashImageUrl": "https://onchainpoker.xyz/splash_200x200.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://onchainpoker.xyz/api/farcaster/webhook",
+    "webhookUrl": "https://app-bec62205-ia2j.vercel.app/api/webhook",
     "subtitle": "Trustless poker on Base",
     "description": "A fair, transparent, and socially integrated onchain poker experience leveraging Base for settlement and Farcaster for identity and interaction.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://onchainpoker.xyz/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["poker", "gaming", "base", "onchain", "farcaster"],
+    "tags": [
+      "poker",
+      "gaming",
+      "base",
+      "onchain",
+      "farcaster"
+    ],
     "heroImageUrl": "https://onchainpoker.xyz/og-image.png",
     "tagline": "Play poker, win onchain",
     "ogTitle": "Onchain Poker Hub",
