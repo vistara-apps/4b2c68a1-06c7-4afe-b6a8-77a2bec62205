@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJvbmNoYWlucG9rZXIueHl6In0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "Onchain Poker Hub",
+    "homeUrl": "https://onchainpoker.xyz/mini-app",
+    "iconUrl": "https://onchainpoker.xyz/icon_256x256.png",
+    "splashImageUrl": "https://onchainpoker.xyz/splash_200x200.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://onchainpoker.xyz/api/farcaster/webhook",
+    "subtitle": "Trustless poker on Base",
+    "description": "A fair, transparent, and socially integrated onchain poker experience leveraging Base for settlement and Farcaster for identity and interaction.",
+    "screenshotUrls": [
+      "https://onchainpoker.xyz/screenshot1.png",
+      "https://onchainpoker.xyz/screenshot2.png",
+      "https://onchainpoker.xyz/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["poker", "gaming", "base", "onchain", "farcaster"],
+    "heroImageUrl": "https://onchainpoker.xyz/og-image.png",
+    "tagline": "Play poker, win onchain",
+    "ogTitle": "Onchain Poker Hub",
+    "ogDescription": "Fully onchain poker gameplay with trustless, gasless settlement on Base",
+    "ogImageUrl": "https://onchainpoker.xyz/og-image.png"
+  }
+}
